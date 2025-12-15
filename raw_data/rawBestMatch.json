@@ -1,0 +1,16 @@
+{
+    "musicResponsiveListItemRenderer": {
+        "text": "Jamie Paige",
+        "navigationEndpoint": {
+            "clickTrackingParams": "CMoCEPiRBRgAIhMI77O2hpnAkQMV-qzkBh2r_AWWygEEptomxA==",
+            "browseEndpoint": {
+                "browseId": "UCtF4pm3ATF9WKDka0CaiL9g",
+                "browseEndpointContextSupportedConfigs": {
+                    "browseEndpointContextMusicConfig": {
+                        "pageType": "MUSIC_PAGE_TYPE_ARTIST"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,27 +1,36 @@
 [
     {
-        "videoId": "Us9mJKchung",
-        "name": "Do No Harm (Ventricular Mix)",
-        "channelId": "UCtF4pm3ATF9WKDka0CaiL9g",
-        "artist": "Jamie Paige, Marcy Nabors, & Penny Parker",
+        "channelId": "UCDsaRDKTCsGBJMUKx-KtukA",
+        "name": "Jamie Paige",
+        "description": "Listen to music from Jamie Paige on YouTube Music - a dedicated music app with official songs, music videos, remixes, covers, and more.",
         "thumbnails": [
             {
-                "url": "https://lh3.googleusercontent.com/NhJL-mxTNaKEYpFAZ8SijvFH_Xst_oJ65JCSEcg6etTvxow4L1C_8oqAHjD9iPgER7v6lbVU8ATMcDeACw=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "url": "https://lh3.googleusercontent.com/a-/ALV-UjXrRXds5VstO4WgNFdAV2SzMd_gnR7LuB_swbGYxNz3mCbiscjS=w540-h225-l90-rj-dcAVGESq4G",
+                "width": 540,
+                "height": 225
             },
             {
-                "url": "https://lh3.googleusercontent.com/NhJL-mxTNaKEYpFAZ8SijvFH_Xst_oJ65JCSEcg6etTvxow4L1C_8oqAHjD9iPgER7v6lbVU8ATMcDeACw=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
+                "url": "https://lh3.googleusercontent.com/a-/ALV-UjXrRXds5VstO4WgNFdAV2SzMd_gnR7LuB_swbGYxNz3mCbiscjS=w816-h340-l90-rj-dcAVGESq4G",
+                "width": 816,
+                "height": 340
             },
             {
-                "url": "https://lh3.googleusercontent.com/NhJL-mxTNaKEYpFAZ8SijvFH_Xst_oJ65JCSEcg6etTvxow4L1C_8oqAHjD9iPgER7v6lbVU8ATMcDeACw=w226-h226-l90-rj",
-                "width": 226,
-                "height": 226
+                "url": "https://lh3.googleusercontent.com/a-/ALV-UjXrRXds5VstO4WgNFdAV2SzMd_gnR7LuB_swbGYxNz3mCbiscjS=w1440-h600-l90-rj-dcAVGESq4G",
+                "width": 1440,
+                "height": 600
             },
             {
-                "url": "https://lh3.googleusercontent.com/NhJL-mxTNaKEYpFAZ8SijvFH_Xst_oJ65JCSEcg6etTvxow4L1C_8oqAHjD9iPgER7v6lbVU8ATMcDeACw=w544-h544-l90-rj",
+                "url": "https://lh3.googleusercontent.com/a-/ALV-UjXrRXds5VstO4WgNFdAV2SzMd_gnR7LuB_swbGYxNz3mCbiscjS=w1920-h800-l90-rj-dcAVGESq4G",
+                "width": 1920,
+                "height": 800
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/a-/ALV-UjXrRXds5VstO4WgNFdAV2SzMd_gnR7LuB_swbGYxNz3mCbiscjS=w1977-h823-l90-rj-dcAVGESq4G",
+                "width": 1977,
+                "height": 823
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/a-/ALV-UjXrRXds5VstO4WgNFdAV2SzMd_gnR7LuB_swbGYxNz3mCbiscjS=w544-h544-l90-rj",
                 "width": 544,
                 "height": 544
             }
@@ -71,6 +80,8 @@
     {
         "videoId": "0iVlSNpq8i8",
         "name": "BIRDBRAIN",
+        "lengthSeconds": "256",
+        "musicVideoType": "MUSIC_VIDEO_TYPE_OMV",
         "channelId": "UCDsaRDKTCsGBJMUKx-KtukA",
         "artist": "Jamie Paige",
         "thumbnails": [
@@ -94,6 +105,8 @@
     {
         "videoId": "sqK-jh4TDXo",
         "name": "Machine Love",
+        "lengthSeconds": "286",
+        "musicVideoType": "MUSIC_VIDEO_TYPE_OMV",
         "channelId": "UCDsaRDKTCsGBJMUKx-KtukA",
         "artist": "Jamie Paige",
         "thumbnails": [
@@ -158,6 +171,8 @@
     {
         "videoId": "u33469XYVWc",
         "name": "Dance Delightful",
+        "lengthSeconds": "259",
+        "musicVideoType": "MUSIC_VIDEO_TYPE_OMV",
         "channelId": "UCDsaRDKTCsGBJMUKx-KtukA",
         "artist": "Jamie Paige",
         "thumbnails": [
@@ -220,6 +235,8 @@
     {
         "videoId": "1e8NADa_gEI",
         "name": "ROT FOR CLOUT",
+        "lengthSeconds": "227",
+        "musicVideoType": "MUSIC_VIDEO_TYPE_ATV",
         "channelId": "UCtF4pm3ATF9WKDka0CaiL9g",
         "artist": "Jamie Paige & Visualeyes",
         "thumbnails": [
@@ -248,6 +265,8 @@
     {
         "videoId": "f3yFpxbP0pc",
         "name": "Clouddrop",
+        "lengthSeconds": "411",
+        "musicVideoType": "MUSIC_VIDEO_TYPE_ATV",
         "channelId": "UCtF4pm3ATF9WKDka0CaiL9g",
         "artist": "Jamie Paige",
         "thumbnails": [
@@ -276,6 +295,8 @@
     {
         "videoId": "crdr5HNJemk",
         "name": "I Wish That I Could Fall",
+        "lengthSeconds": "278",
+        "musicVideoType": "MUSIC_VIDEO_TYPE_ATV",
         "channelId": "UCtF4pm3ATF9WKDka0CaiL9g",
         "artist": "Jamie Paige",
         "thumbnails": [
@@ -304,6 +325,8 @@
     {
         "videoId": "sxO1RG9q30I",
         "name": "Dance Delightful",
+        "lengthSeconds": "257",
+        "musicVideoType": "MUSIC_VIDEO_TYPE_ATV",
         "channelId": "UCtF4pm3ATF9WKDka0CaiL9g",
         "artist": "Jamie Paige",
         "thumbnails": [
@@ -332,6 +355,8 @@
     {
         "videoId": "9KfKbr_wiNQ",
         "name": "Dyad",
+        "lengthSeconds": "282",
+        "musicVideoType": "MUSIC_VIDEO_TYPE_ATV",
         "channelId": "UCtF4pm3ATF9WKDka0CaiL9g",
         "artist": "Jamie Paige",
         "thumbnails": [
@@ -358,86 +383,39 @@
         ]
     },
     {
-        "videoId": "03VhgGUXtVc",
-        "name": "Ep 46- JAMIE PAIGE ACCIDENTALLY GOES PANTLESS ON YOUTUBE!",
-        "channelId": "UC66ELjXSKF-twDw75QY5qYw",
-        "artist": "Poddy Talk Podcast",
+        "channelId": "UCmwz6ogzQqq4FIYv7uLQAXQ",
+        "name": "Kasane Teto",
+        "description": "Kasane Teto is a virtual singer software using voice synthesis software UTAU. The character was initially created as a joke for April Fools' Day 2008 on the Japanese textboard 2channel, but she was later made into an actual voicebank. Teto has been introduced as a \"diva born from a hoax\".\nKasane Teto was released as a voice model in 2021 for TALQu, a deep learning-based free speech software, in 2023 for Synthesizer V AI, a commercial singing voice synthesis software, and in 2025 for VOICEPEAK, a text-to-speech software.",
         "thumbnails": [
             {
-                "url": "https://i.ytimg.com/vi_webp/03VhgGUXtVc/mqdefault.webp",
-                "width": 320,
-                "height": 180
+                "url": "https://lh3.googleusercontent.com/1H4J5ysWeRIAm6pDIvBEhr8hmB5iODlLsAnjOn8SYra17l2H408ZFINscwHZpgA9DJ_T8aWxt3eRjW98=w540-h225-p-l90-rj",
+                "width": 540,
+                "height": 225
             },
             {
-                "url": "https://i.ytimg.com/vi/03VhgGUXtVc/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCXXaicmmZd3V3R3yDxSdHKtRS4sw",
-                "width": 400,
-                "height": 224
+                "url": "https://lh3.googleusercontent.com/1H4J5ysWeRIAm6pDIvBEhr8hmB5iODlLsAnjOn8SYra17l2H408ZFINscwHZpgA9DJ_T8aWxt3eRjW98=w816-h340-p-l90-rj",
+                "width": 816,
+                "height": 340
             },
             {
-                "url": "https://i.ytimg.com/vi/03VhgGUXtVc/hq720.jpg?sqp=-oaymwEXCKAGEMIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDsVdYx3dKEhen78iffD6FlbmhgKw",
-                "width": 800,
-                "height": 450
+                "url": "https://lh3.googleusercontent.com/1H4J5ysWeRIAm6pDIvBEhr8hmB5iODlLsAnjOn8SYra17l2H408ZFINscwHZpgA9DJ_T8aWxt3eRjW98=w1440-h600-p-l90-rj",
+                "width": 1440,
+                "height": 600
             },
             {
-                "url": "https://i.ytimg.com/vi_webp/03VhgGUXtVc/hq720.webp",
-                "width": 1280,
-                "height": 720
-            }
-        ]
-    },
-    {
-        "videoId": "kk3-DTXw_Jo",
-        "name": "Jamie Paige; Westside Current / Inner View I",
-        "channelId": "UCSxtPn7xzL9BoVqA51TM55A",
-        "artist": "Mental Obsession Discussion / Emotional Sobriety /  Spiritual Malady",
-        "thumbnails": [
-            {
-                "url": "https://i.ytimg.com/vi/kk3-DTXw_Jo/mqdefault.jpg?sqp=-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYZSBYKFEwDw==&rs=AOn4CLDI59hOghe29rZuU0uusy6XhsG1sw",
-                "width": 320,
-                "height": 180
+                "url": "https://lh3.googleusercontent.com/1H4J5ysWeRIAm6pDIvBEhr8hmB5iODlLsAnjOn8SYra17l2H408ZFINscwHZpgA9DJ_T8aWxt3eRjW98=w1920-h800-p-l90-rj",
+                "width": 1920,
+                "height": 800
             },
             {
-                "url": "https://i.ytimg.com/vi/kk3-DTXw_Jo/hqdefault.jpg?sqp=-oaymwExCJADEOABSFryq4qpAyMIARUAAIhCGADwAQH4AbYIgAK4CIoCDAgAEAEYZSBYKFEwDw==&rs=AOn4CLBCby2vYU1uGgtRi3mbgf_O3TyvWg",
-                "width": 400,
-                "height": 224
+                "url": "https://lh3.googleusercontent.com/1H4J5ysWeRIAm6pDIvBEhr8hmB5iODlLsAnjOn8SYra17l2H408ZFINscwHZpgA9DJ_T8aWxt3eRjW98=w2880-h1200-p-l90-rj",
+                "width": 2880,
+                "height": 1200
             },
             {
-                "url": "https://i.ytimg.com/vi/kk3-DTXw_Jo/hq720.jpg?sqp=-oaymwExCKAGEMIDSFryq4qpAyMIARUAAIhCGADwAQH4AbYIgAK4CIoCDAgAEAEYZSBYKFEwDw==&rs=AOn4CLAefN_RhQNw-rKEE68PwvE96SGE4A",
-                "width": 800,
-                "height": 450
-            },
-            {
-                "url": "https://i.ytimg.com/vi/kk3-DTXw_Jo/hq720.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYZSBYKFEwDw==&rs=AOn4CLAXerbIc6mSWfGqwr5jrtt2LsZA3w",
-                "width": 1280,
-                "height": 720
-            }
-        ]
-    },
-    {
-        "videoId": "mMePU1ECQPY",
-        "name": "Episode 80: A Real Food Recovery Plot Twist",
-        "channelId": "UCoob3V7-tEfdSz1B34cnJ4Q",
-        "artist": "Real Food Recovery",
-        "thumbnails": [
-            {
-                "url": "https://i.ytimg.com/vi/mMePU1ECQPY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-            },
-            {
-                "url": "https://i.ytimg.com/vi/mMePU1ECQPY/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDZViNyjdz230kc-j1sdHKHSlfEpg",
-                "width": 400,
-                "height": 224
-            },
-            {
-                "url": "https://i.ytimg.com/vi/mMePU1ECQPY/hq720.jpg?sqp=-oaymwEXCKAGEMIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBIbv-aIWcIlOlJ97yOMBhZWK_VQQ",
-                "width": 800,
-                "height": 450
-            },
-            {
-                "url": "https://i.ytimg.com/vi/mMePU1ECQPY/hq720.jpg",
-                "width": 1280,
-                "height": 720
+                "url": "https://lh3.googleusercontent.com/1H4J5ysWeRIAm6pDIvBEhr8hmB5iODlLsAnjOn8SYra17l2H408ZFINscwHZpgA9DJ_T8aWxt3eRjW98=w544-h544-l90-rj",
+                "width": 544,
+                "height": 544
             }
         ]
     }
