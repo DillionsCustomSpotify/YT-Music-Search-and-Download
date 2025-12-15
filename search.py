@@ -2,7 +2,7 @@ import innertube
 import json
 
 client = innertube.InnerTube("WEB_REMIX")
-data = client.search(query="fools masquerade")
+data = client.search(query="jamie paige")
 
 """
 If theres a misspelling in the search:
@@ -24,7 +24,10 @@ exit()
 bestMatchData = None
 try:
     bestMatchData = dataFirstLevelResults[-2]["musicCardShelfRenderer"]["contents"][-1] # get the last item in contents of that
-except: print("# idk why tf 'contents' just doesn't exist sometimes. ignore it ig")
+except:
+    # idk why tf 'contents' just doesn't exist sometimes. ignore it ig
+    print("bestMatchData not found, skipping it...")
+    pass
 resultsData = dataFirstLevelResults[-1]["musicShelfRenderer"]["contents"]
 
 iterateData = []
@@ -82,7 +85,7 @@ def handleAlbum(item) -> dict:
         "thumbnails": albumThumbnails,
     }
     
-    print(f"Album - ({browserId})")
+    print(f"Album - {albumData['name']} ({browserId})")
     return albumData
 
 searchResultData = []
